@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "fa_pedidos_ta_sbra_03": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7091",
+      "launchBrowser": false
+    }
+  }
+}
